@@ -1,0 +1,101 @@
+.formClass {
+  background-color: #ddb3f8;
+  height: max-content;
+  width: 78%;
+  margin: auto;
+  border-radius: 10px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-top:2rem;
+
+}
+
+.back{
+  width:76%;
+  background-color: #ddb3f8;
+  margin: auto;
+  height: 100px;
+  margin-top:2rem;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btnDiv{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  align-items: center;
+  margin: auto;
+  width:50%;
+}
+.label {
+  text-align: left;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+.input1 {
+  height: 35px;
+  width: 40%;
+  margin-bottom: 2rem;
+  border: 0px;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  padding:0.5rem;
+}
+/* .input1::placeholder{
+  padding:0.5rem;
+}
+.input::placeholder{
+  padding:0.5rem;
+} */
+.input {
+  height: 35px;  padding:0.5rem;
+  width: 70%;
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+  border: 0px;
+  border-radius: 8px;
+}
+.titleDiv {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.divmain {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.btn1 {
+  width: 150px;
+  height: 50px;
+  background-color: rgb(101, 32, 166);
+  color: white;
+  border: 2px solid white;
+  border-radius: 8px;
+  padding:0.6rem;
+  font-weight: 700;
+  font-size:1.2rem;
+}
+
+.btn2 {
+  width: max-content;
+  height: 50px;
+  background-color: rgb(101, 32, 166);
+  color: white;
+  border: 2px solid white;
+  border-radius: 8px;
+  padding:0.6rem;
+  font-weight: 700;
+  font-size:1.2rem;
+}
+
+
+/* 
+    #40005d
+    #ddb3f8 */

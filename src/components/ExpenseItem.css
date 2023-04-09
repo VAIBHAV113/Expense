@@ -1,0 +1,68 @@
+.mainDate {
+  height: 100px;
+  width: 80px;
+  border-radius: 10px;
+  border: 2px solid white;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(30, 28, 28);
+}
+.wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  border-radius: 10px;
+}
+.mainDiv {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  background-color: rgb(92, 92, 92);
+  padding: 1rem 2rem 1rem 2rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  /* margin-right: 4rem;
+  margin-left: 4rem; */
+}
+.month {
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: white;
+}
+
+.day {
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: white;
+}
+
+.year {
+  font-weight: 500;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.heading {
+  font-weight: 500;
+  font-size: 1.6rem;
+  color: white;
+}
+
+.btn {
+  height: 40px;
+  width: 120px;
+  background-color: rgb(101, 32, 166);
+  color: white;
+  border: 2px solid white;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
